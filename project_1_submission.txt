@@ -78,5 +78,5 @@ Q77::32560
 Q78::-4570
 Q79::37440
 Q80::-39830
-Q81::
-Q82::
+Q81::.5
+Q82::Outer Truss members have half the depth that the inner truss members have. They go from having 25 ft of depth to 12.5 feet of depth.
